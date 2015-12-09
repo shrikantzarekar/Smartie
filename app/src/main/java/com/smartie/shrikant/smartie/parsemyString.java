@@ -4,7 +4,6 @@ package com.smartie.shrikant.smartie;
 
 // categories are stories, jokes, math, game
 
-import smarty.shrikant.com.smarty.Constants;
 
 public class parsemyString {
 
